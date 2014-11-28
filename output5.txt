@@ -1,0 +1,2 @@
+There is a satisfying assignment
+Run time is 156 milliseconds

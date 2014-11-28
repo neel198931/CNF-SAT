@@ -1,0 +1,13 @@
+ The solution is
+x[1] = 0
+x[2] = 1
+x[3] = 0
+ The solution is
+x[1] = 0
+x[2] = 0
+x[3] = 1
+ The solution is
+x[1] = 0
+x[2] = 0
+x[3] = 0
+Run time is 51 milliseconds
